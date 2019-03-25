@@ -8,6 +8,7 @@ def second_challenge
 
   #code your solution here!
 
-groceries.values.split
+groceries.values
+values.split
 
 end
