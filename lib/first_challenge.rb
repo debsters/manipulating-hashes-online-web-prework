@@ -13,10 +13,10 @@ def first_challenge
     }
   }
 
-  contacts["Freddy Mercury"][:favorite_icecream_flavors].delete("strawberry")
-    #remember to return your newly altered contacts hash!
-    contacts
-  end
+  # contacts["Freddy Mercury"][:favorite_icecream_flavors].delete("strawberry")
+  #   #remember to return your newly altered contacts hash!
+  #   contacts
+  # end
 
   ####OR####
   contacts.collect do |person, data|
